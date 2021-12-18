@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="alchakov.cpp" />
+    <ClCompile Include="factorial.cpp" />
     <ClCompile Include="mrpomag.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="alchakov.h" />
+    <ClInclude Include="factorial.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
