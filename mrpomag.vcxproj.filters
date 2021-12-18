@@ -18,5 +18,13 @@
     <ClCompile Include="mrpomag.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="alchakov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alchakov.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
