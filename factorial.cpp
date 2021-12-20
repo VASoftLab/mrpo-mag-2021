@@ -1,9 +1,9 @@
 /**
  * \date 18.12.2021
  *
- * \author Дементьев Кирилл
+ * \author Dementiev Kirill
  *
- * \brief Исходный файл, содержащий функцию вычисления факториала числа
+ * \brief Function of Factorial
  */
 
 #include "factorial.h"
