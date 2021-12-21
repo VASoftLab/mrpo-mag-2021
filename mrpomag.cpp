@@ -1,6 +1,8 @@
 #include <iostream>
 #include "alchakov.h"
 #include "factorial.h"
+#include "lyashko.h"
+
 
 int main()
 {
@@ -20,6 +22,13 @@ int main()
         std::cout << "factorial(" << n << ") = " << factorial(n) << std::endl;
     }
     std::cout << "test finished..." << std::endl;
+    /////////////////////////////////////////////
+    
+    /////////////////////////////////////////////
+    // Lyashko
+    std::cout << std::endl;
+    std::cout << "Lyashko function test: " << lyashko_func(12.4) << std::endl;
+    std::cout << std::endl;
     /////////////////////////////////////////////
 
     c = a + b;
