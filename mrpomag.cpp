@@ -1,6 +1,8 @@
 #include <iostream>
 #include "alchakov.h"
 #include "factorial.h"
+#include "lyashko.h"
+
 
 int main()
 {
