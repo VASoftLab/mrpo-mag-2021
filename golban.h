@@ -1,2 +1,2 @@
 #pragma once
-int cubeA(int A);
+int cubeA(int A); 

@@ -2,4 +2,5 @@
 int cubeA(int A)
 {
 	return A * A * A;
+
 }
