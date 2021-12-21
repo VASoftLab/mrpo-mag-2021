@@ -24,12 +24,18 @@
     <ClCompile Include="factorial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="golban.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="alchakov.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="factorial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="golban.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
