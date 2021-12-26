@@ -2,7 +2,7 @@
 #include "alchakov.h"
 #include "factorial.h"
 #include "lyashko.h"
-
+#include "Popov.h"
 
 int main()
 {
@@ -14,7 +14,8 @@ int main()
     std::cout << "alchakov: " << sumAB(a, b) << std::endl;
     std::cout << std::endl;
     /////////////////////////////////////////////
-
+    // Popov
+    std::cout << popov(2.5);
     /////////////////////////////////////////////
     // Dementiev
     std::cout << "Dementiev K.V. | start factorial(n) test:" << std::endl;
