@@ -1,12 +1,8 @@
 #include <iostream>
 #include "alchakov.h"
 #include "factorial.h"
-<<<<<<< HEAD
-#include "lyashko.h"
-
-=======
+//#include "lyashko.h"
 #include "golban.h"
->>>>>>> golban
 
 int main()
 {
@@ -30,9 +26,9 @@ int main()
     
     /////////////////////////////////////////////
     // Lyashko
-    std::cout << std::endl;
+    /*std::cout << std::endl;
     std::cout << "Lyashko function test: " << lyashko_func(12.4) << std::endl;
-    std::cout << std::endl;
+    std::cout << std::endl;*/
     /////////////////////////////////////////////
 
     /////////////////////////////////////////////
