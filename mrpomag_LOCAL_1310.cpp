@@ -1,12 +1,8 @@
 #include <iostream>
 #include "alchakov.h"
 #include "factorial.h"
-<<<<<<< HEAD
 #include "lyashko.h"
 
-=======
-#include "golban.h"
->>>>>>> golban
 
 int main()
 {
@@ -35,12 +31,6 @@ int main()
     std::cout << std::endl;
     /////////////////////////////////////////////
 
-    /////////////////////////////////////////////
-    //Golban
-    std::cout << "**********************" << std::endl;
-    std::cout << "Golban: " << cubeA(a) << std::endl;
-    std::cout << std::endl;
-    /////////////////////////////////////////////
     c = a + b;
     d = a - b;
     std::cout << c << std::endl;

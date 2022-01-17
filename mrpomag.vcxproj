@@ -42,7 +42,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -141,11 +141,13 @@
   <ItemGroup>
     <ClCompile Include="alchakov.cpp" />
     <ClCompile Include="factorial.cpp" />
+    <ClCompile Include="golban.cpp" />
     <ClCompile Include="mrpomag.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="alchakov.h" />
     <ClInclude Include="factorial.h" />
+    <ClInclude Include="golban.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
